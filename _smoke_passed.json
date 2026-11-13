@@ -1,0 +1,12 @@
+{
+  "label": "sec-02",
+  "port": 5810,
+  "login_url": "http://127.0.0.1:5810/login",
+  "http_status": 200,
+  "checks": [
+    "含登录相关文案",
+    "含密码表单线索"
+  ],
+  "passed": true,
+  "checked_at": "2026-11-13T14:19:28+08:00"
+}
